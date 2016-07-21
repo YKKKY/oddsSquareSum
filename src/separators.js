@@ -22,10 +22,10 @@ function buildOddsSquareSum(oddsSquareArray){
 }
 
 module.exports = {
-    printOddSumArray: printOddSumArray,
-    buildOddsArray:buildOddsArray,
-    buildOddsSquareArray:buildOddsSquareArray,
-    buildOddsSquareSum:buildOddsSquareSum
+    printOddSumArray,
+    buildOddsArray,
+    buildOddsSquareArray,
+    buildOddsSquareSum
 
 }
 /*
